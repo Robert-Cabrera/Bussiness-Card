@@ -1,0 +1,155 @@
+* {
+    font-family: Inter;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(55, 45, 75);
+}
+
+
+.app--wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    background-color: rgb(66, 58, 85);
+    
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+
+    width: min-content;
+    height:auto;
+    border-radius: 10px;
+}
+
+.app--wrap--headshot{
+    width: 20em;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+/* Info */
+
+.info--wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.info--wrap > h1{
+    margin: 0;
+    font-size: 1.8em;
+    font-weight: 800;
+    color:white;
+}
+
+.info--wrap > h2{
+    margin: 0;
+    padding-top: 2px;
+    font-size: 1.1em;
+    font-weight: 300;
+    color:rgb(173, 173, 173);
+}
+
+.info--wrap > h3{
+    margin: 0;
+    padding-top: 13px;
+    color:rgba(187, 187, 187, 0.63);
+    font-weight: 300;
+    font-size: 0.8em;
+}
+
+/* Buttons */
+
+.buttons--wrap{
+    display: flex;
+    align-items: center;
+}
+
+.buttons--email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 9em;
+    height: 2.4em;
+    font-size: 0.8em;
+    color: black;
+    font-weight: 800;
+    background-color: white;
+
+    border: none;
+    border-radius: 10px;
+
+    margin-right: 1em;
+
+    cursor: pointer;
+    transition:ease-in-out 0.5s;
+}
+
+.buttons--email:hover{
+    background-color: #c3c3c3;
+    transform: translateY(-3px);
+}
+
+.--email--icon{
+    margin-right: 7px;
+}
+
+.buttons--linkedin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 9em;
+    height: 2.4em;
+    font-size: 0.8em;
+    font-weight: 800;
+    color: white;
+    background-color: #0077B5 ;
+    
+    border: none;
+    border-radius: 10px;
+
+    cursor: pointer;
+    transition:ease-in-out 0.5s;
+}
+
+.buttons--linkedin:hover{
+    background-color: #026194;
+    transform: translateY(-3px);
+}
+
+.--linkedin--icon{
+    margin-right: 7px;
+}
+
+/* About */
+
+.about--wrap{
+    width: 100%;
+    padding: 20px;
+}
+
+.about--wrap > h1{
+    margin:0;
+    padding-top: 15px;
+    padding-left: 20px;
+    color:white;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.about--wrap > p{
+    margin:0;
+    padding-left: 20px;
+    padding-top: 2px;
+    color:rgb(173, 173, 173);
+    font-size: 0.7em;
+    font-weight: 300;
+}
