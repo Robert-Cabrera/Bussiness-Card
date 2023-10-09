@@ -9,4 +9,4 @@ An introductory project I created to master the basics of React, CSS, and JavaSc
  <hr />
  <br />
 
-<img width="600" alt="cover_1" src="https://github.com/Robert-Cabrera/Bussiness-Card/blob/master/img.png">
+<img width="400" alt="cover_1" src="https://github.com/Robert-Cabrera/Bussiness-Card/blob/master/img.png">
