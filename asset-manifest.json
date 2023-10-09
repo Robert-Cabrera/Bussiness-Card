@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bussiness-Card/static/css/main.c57c4d99.css",
+    "main.js": "/Bussiness-Card/static/js/main.66285f7b.js",
+    "static/media/img_1.png": "/Bussiness-Card/static/media/img_1.c4f59de4db9837fc9d3c.png",
+    "index.html": "/Bussiness-Card/index.html",
+    "main.c57c4d99.css.map": "/Bussiness-Card/static/css/main.c57c4d99.css.map",
+    "main.66285f7b.js.map": "/Bussiness-Card/static/js/main.66285f7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57c4d99.css",
+    "static/js/main.66285f7b.js"
+  ]
+}
