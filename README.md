@@ -8,5 +8,6 @@ An introductory project I created to master the basics of React, CSS, and JavaSc
 
  <hr />
  <br />
-
-<img width="400" alt="cover_1" src="https://github.com/Robert-Cabrera/Bussiness-Card/blob/master/img.png">
+<div align="center">
+<img width="1000" height="auto" alt="cover_1" src="https://github.com/Robert-Cabrera/Bussiness-Card/blob/master/img.png">
+      </div>
